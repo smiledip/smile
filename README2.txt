@@ -1,0 +1,1 @@
+springboot+jquery+AVE+Elasticsearch+mysql
